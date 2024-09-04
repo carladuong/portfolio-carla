@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Carla Duong"
+  text: "6.1040 projects"
+  tagline: "they are so awesome"
   actions:
     - theme: brand
       text: Template Repository
