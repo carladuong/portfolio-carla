@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Carla Duong"
-  text: "6.1040 projects"
-  tagline: "they are so awesome"
+  text: "6.1040 Fall 2024"
+  tagline: "my projects live here"
   actions:
     - theme: brand
       text: Template Repository
@@ -22,4 +22,5 @@ features:
     details: All of your assignments will be posted on your portfolio.
   - title: About Me
     details: You'll implement a small bio about yourself on here!
+    link: about.md
 ---
