@@ -17,16 +17,16 @@ Subreddit homepages: Like Ginger, Reddit aims to create communities (Subreddits)
 ![Screenshot of Queering the Map](/../assets/images/queering_the_map_ss.png)
 Adding a story to a location on Queering the Map: It could be helpful to have a map that users can contibute to by pinning local resources.
 
-![Screenshot of Android Notes App](/../assets/images/android_notes_app_ss.jpg)
+![Screenshot of Android Notes App](/../assets/images/android_notes_app_ss.jpg){width="300px"}
 Private notes on Android notes app: While I would like communities to be publicly accessible so that curious allies can learn from them, I think it would also be helpful for users to be able to choose if they want posts to be visible only to members of the community they are posting to (extending the feature of notes that are only visible to yourself on the notes app).
 
-![Screenshot of Poshmark](/../assets/images/poshmark_ss.jpg)
+![Screenshot of Poshmark](/../assets/images/poshmark_ss.jpg){width="300px"}
 Categorizing and filtering listings on Poshmark: Most shopping apps, like Poshmark, categorize their items so that a user can choose what they want to look for. I want to apply a similar idea within communities on Ginger so that a user can select what kind of posts they want to look at (advice, stories, support, etc.).
 
-![Screenshot of Tumblr](/../assets/images/tumblr-gif.gif)
+![Screenshot of Tumblr](/../assets/images/tumblr-gif.gif){width="500px"}
 Filtering out tags on Tumblr: Tumblr allows you to specify tags relating to content you don't want to view in the settings. I think it would be helpful to take this a step further and hide any posts that might contain the words that a user does not want to see. This could be particularly beneficial for users who might have triggers.
 
-![Screenshot of Spotify](/../assets/images/spotify_ss.jpg)
+![Screenshot of Spotify](/../assets/images/spotify_ss.jpg){width="300px"}
 Swiping to add a song to the queue on Spotify: Incorporating interactions like these for posts instead of songs could make the app more accessible for some people than closely spaced interaction buttons (e.g. like, save, share, etc.). I could even extend this by making a swipe in one direction result in a save, and the swipe in the other direction result in a like (or some other interaction).
 
 ## Feature Brainstorming
@@ -73,7 +73,25 @@ I came up with the first 14 features on this list. For the remaining ones, I use
 20. **Resources for allies and loved ones**: Each community page will also have a section that contains information for people who don't have the chronic condition, but who want to educate themselves or support someone they know with it. It will include information about how to interact with the people in the community and resources that community members can add to.
 
 
+## VSD Analysis
+- When considering the **stakeholders**, it is possible that non-targeted users, such as Internet trolls, would take advantage of a group of people who may be more vulnerable to certain content than others by targeting their community to spam harmful or graphic posts. Though my app has rules for each community, users may still see violating content before it can be taken down. It could be useful limit the privileges of people who aren’t in the community and people who are new to the community by limiting post frequency, and banning users who violate the rules.
 
+- Children are another group of non-targeted **stakeholders**. For a child who gets a hold of their parent’s phone and uses the app, it could be traumatic to discover the struggles that a parent is facing due to their chronic condition. To prevent this, I could have the user sign into a new session each time they use the app. Another useful feature could be usage reports, so that the parent can be aware of any activity that they don’t recognize. As a bonus, this can help users without children to manage their screen time on the app to prevent overuse. 
+
+- In the category of **time**, I found it interesting to think about how Ginger might impact friendships and familial relationships 3-5 years from now. I hope that through buddy matching and cross-posting, people can make friends with other users who have a lot in common with them. I also hope that existing friendships and familial relationships will be stronger because of the resources that help allies learn more about their loved ones’ conditions and how to support them. To encourage people without chronic conditions to follow along with their loved ones’ communities, it could be helpful to add a badge specifically for allies in communities so that they can be a part of them as well.
+
+- In terms of **pervasiveness**, we would see different uses for the app in different geographies. For example, the resource map and filtering posts by location would be a lot more helpful to users in urban environments, where there would be more people and resources. In a rural setting, however, these features would likely not be as useful. Although the event board will contain remote events, I could extend the location filter by allowing users to filter by broader areas– for example, if a user doesn’t find any posts in Taloga, Oklahoma, they could expand to all of Oklahoma, so they can benefit from information like insurance tips for the state of Oklahoma.
+
+- A tension that I see in the **values** of my app is that I’ve offered features (such as hiding identifying information from people who users aren’t connected with) to protect users’ privacy, but in doing so, their level of online safety could be reduced, since bad actors could use the anonymity to make threats or bully others without real consequences. A feature that I listed earlier for my app was detection of inappropriate content in chats, but to take this a step further, I would like to allow users to choose to not allow messages from users who they are not connected with.
+
+
+## Storyboards
+
+![Cross-posting storyboard](/../assets/images/storyboard1.png){width="500px"}
+Storyboard featuring cross-posting and chatting
+
+![Location storyboard](/../assets/images/storyboard2.png){width="500px"}
+Storyboard featuring location filtering and resource map
 
 
 
