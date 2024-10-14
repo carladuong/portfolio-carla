@@ -75,7 +75,11 @@ include Matching [User] \
 
 
 ## Code and Deployment
-The GitHub repo with my backend code can be found [here](https://github.com/carladuong/ginger), and the deployment can be found [here](ginger-kappa.vercel.app). If the deployment link doesn't work, please try going to this website: ginger-kappa.vercel.app
+The GitHub repo with my backend code can be found [here](https://github.com/carladuong/ginger), and the deployment can be found at one of these links:
+
+ginger-kappa.vercel.app
+
+ginger-ms33nlk2y-carlas-projects-5b2bfdfa.vercel.app
 
 
 ## Design Reflection
