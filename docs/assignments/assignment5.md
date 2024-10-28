@@ -19,3 +19,7 @@ layout: doc
 * *Speak a user’s language*: In its current state, my app is lacking user-facing error messages, which could make it difficult for the user to know how to react when something goes wrong. When an invalid input is given, I would like my app to display a message informing the user of the problem. For example, if an empty input is given for a username, password, or post, the message will say something like “Please provide a value for [relevant field].”
 * *Consistency*: Although they take the user to the same page, the profile button on the navigation bar and the profile button in the top right have different icons. Using the fix I proposed in the Fitt’s Law observation, I will likely remove the profile link that was previously on the navigation bar to remove this ambiguity and to avoid having two links to the same page next to each other. It is possible that removing the profile page from the group of icons in the top bar could make it less discoverable, but since many social media apps allow a user to access their profile by clicking a profile picture in the top right corner, I believe that this is still an intuitive flow.
 
+## Visual Design Study
+![Font visual design study](/../assets/images/font_visual_study.png)
+![Color visual design study](/../assets/images/color_visual_study.png)
+
