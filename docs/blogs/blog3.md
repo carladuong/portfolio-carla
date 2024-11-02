@@ -1,0 +1,12 @@
+---
+title: The Unintended Consequences of Airbnb
+layout: doc
+---
+
+# The Unintended Consequences of Airbnb
+
+In his insightful lecture on Wednesday, Lyel brought up several points that many companies do not consider enough today– most of which are related to the idea that whether they *should* pursue an idea is much more important than whether they *can*. In particular, I really enjoyed our discussion about the agency that technologists have in predicting the ramifications of their products. The example of the plastic soda can holder reminded me of another product that has consequences that extend far beyond the intended stakeholders, and that product is Airbnb.
+
+Although the app was originally meant to help hosts rent out their vacation homes to tourists, the success of the app resulted in a subset of users exploiting it by turning Airbnb hosting into a career. These users buy properties specifically for the purpose of renting them out short-term in Airbnbs. Some have dozens or even hundreds of properties in popular tourist destinations such as New York or Los Angeles. As a result, fewer homes are available, and those that are are more expensive than they have been in the past. As a consequence of the housing shortage, rent prices have also increased. Although the housing crisis would exist with or without Airbnb, there is strong evidence that Airbnb plays a part in unaffordable housing. This has embroiled the company in several legal battles with individual cities. More information can be found in the [source](https://www.businessinsider.com/airbnb-ban-makes-rents-housing-prices-drop-irvine-california-study-2023-11#:~:text=After%20Irvine's%20ban%20went%20into,up%20rents%20and%20home%20prices.) I consulted.
+
+Admittedly, with the benefit of hindsight, it is much easier to think about what could have been done or considered to prevent this problem. However, if the creators of Airbnb had evaluated its possible effects early on using some of the metrics that Lyel discussed, I believe that these consequences would not have been inevitable. For example, the six categories of unintended consequences prompt technologists to consider new business models, displacement of communities, and unexpected types of users– all of which are relevant to Airbnb. The harm it has done to indirect stakeholders cannot be denied, and because of this, it serves as an example and a warning of what could happen if the ramifications of a product aren’t thoroughly evaluated. 
