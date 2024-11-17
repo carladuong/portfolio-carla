@@ -1,5 +1,5 @@
 ---
-title: P2 Divergent design
+title: Project Phase 2
 layout: doc
 ---
 
